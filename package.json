@@ -1,0 +1,12 @@
+{
+  "name": "scope-clousere",
+  "version": "1.0.0",
+  "description": "Curso del manejo del scope y closure en JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
